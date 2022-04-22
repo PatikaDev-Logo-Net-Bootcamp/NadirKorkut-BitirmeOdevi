@@ -38,6 +38,7 @@ namespace SiteManager.Web.UI
             {
                 app.UseDeveloperExceptionPage();
             }
+
             app.Use(async (context, next) =>
             {
                 await next();
@@ -51,7 +52,7 @@ namespace SiteManager.Web.UI
             app.Use(async (context, next) =>
             {
                 await next();
-                if (context.Response.StatusCode == 302)
+                if (context.Response.StatusCode == 403)
                 {
                     context.Request.Path = "/ResponseMiddleware/AccessDenied";
                     await next();
