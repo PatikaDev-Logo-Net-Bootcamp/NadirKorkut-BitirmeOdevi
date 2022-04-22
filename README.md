@@ -9,8 +9,8 @@
 
  * test
 
- ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/10.png)  
+ ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/2.png)  
 
 
 
-  ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/6.png)  
+  ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/3.png)  
