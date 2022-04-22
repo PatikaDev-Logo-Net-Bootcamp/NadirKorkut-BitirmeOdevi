@@ -109,13 +109,11 @@ Kendisine atanan fatura ve aidat bilgilerini görür.
 
 ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/24.png)
 
-* Kredi kartı bilgilerinin eklenmesi
+* Kredi kartı bilgilerinin eklenmesi ve Kredi kartı bilgilerinin MongoDBden çağırılması
 
 ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/25.png)
 
 ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/26.png)
-
-* Kredi kartı bilgilerinin MongoDBden çağırılması
 
 ![image](https://github.com/PatikaDev-Logo-Net-Bootcamp/NadirKorkut-BitirmeOdevi/blob/main/app_screenshots/27.png)
 
